@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"edu.handong.csee.java.chatparser","l":"ChatParser"},{"p":"edu.handong.csee.java.chatparser","l":"Utils"},{"p":"edu.handong.csee.java.chatparser","l":"ChatParser.ValueTypes"}];updateSearchResults();

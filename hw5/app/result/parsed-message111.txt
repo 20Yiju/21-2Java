@@ -1,0 +1,34 @@
+Parsing Message 1
+When: 2021-05-07 08:06
+Who: ShyGirl
+What: Professor! Could you check our LAB8 again? There is no update marking after the yesterday’s class.
+
+Parsing Message 2
+When: 2021-05-07 10:36
+Who: JC
+What: they will be checked before or at the next homework deadline.
+
+Parsing Message 3
+When: 2021-05-07 10:42
+Who: ShyGirl
+What: I see!☺️ Thank you professor!!
+
+Parsing Message 4
+When: 2021-05-07 13:00
+Who: JC
+What: For the last question in the class yeserday, I
+
+Parsing Message 5
+When: 2021-05-07 13:00
+Who: JC
+What: I've added one senetence in the slide: https://docs.google.com/presentation/d/1Anaj1hzO8lD8MnN6eXmSRccPOyNRLogUcastJxWm2Ww/edit#slide=id.g58c9ca1930_0_142
+
+Parsing Message 6
+When: 2021-05-07 13:03
+Who: JC
+What: "To organize helper methods in your libraries; you can keep static methods specific to an interface in the same interface rather than in a separate class." Here helper methods means a static method that is frequently used in many code (for example, the static method in Utils.java in HW2.) If some static methods are directly related to an interface, defining it in the interface could be better to define them in a seperate class. This is just a tip from original java creators. Hope this make more clearer about the question.
+
+Parsing Message 7
+When: 2021-05-07 13:04
+Who: JC
+What: If you have additional questions regarding this, ask here again. Have a great weekend!

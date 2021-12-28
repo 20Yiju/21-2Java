@@ -1,0 +1,2 @@
+edu/handong/csee/java/chatparser/ChatParser.java
+ edu.handong.csee.java.chatparser.ChatParser
